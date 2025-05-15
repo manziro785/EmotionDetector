@@ -1,5 +1,7 @@
 # Emotion Detection in Kyrgyz Texts
 
+## Presentation [https://www.canva.com/design/DAGneyvHqKg/e3iFhIGsker_zkCKZ8__yw/view?utm_content=DAGneyvHqKg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd453fc7e35]
+
 ## What We Did
 Our group worked on emotion detection in Kyrgyz-language texts. The goal was to take a pretrained model, fine-tune it on our own dataset, and try to figure out what emotion the person is expressing - happiness, sadness, fear, anger, and so on. We chose the lm-roberta-base model because it already supports the Kyrgyz language.
 
